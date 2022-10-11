@@ -29,7 +29,7 @@ namespace UniversityRegistrar.Controllers
     [HttpPost]
     public ActionResult Create(Student student)
     {
-      _db.Student.Add(student);
+      _db.Students.Add(student);
       _db.SaveChanges();
       return RedirectToAction("Index");
     }

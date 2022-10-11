@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A43raqsrSoGhZlqvg5yx/3w52+eZoqNWfHvkGI7FAeyMOB+Gnrg1JP9Qu9SekCmDHZi0K8qV8saPxKoaG0XG2g==",
+  "dgSpecHash": "yYTBDAhOAxOeAItWsq7ivwgrTgVXDAyx6hyFyDi5XxhUb4ZatvAWMoeQSPd1vRv6ERlvkdsz+ix6Z8wWIVPlpg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj",
+  "projectFilePath": "C:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kelly\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\kelly\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

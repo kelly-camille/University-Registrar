@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace UniversityResistrar.Models
+namespace UniversityRegistrar.Models
 {
   public class Student
   {

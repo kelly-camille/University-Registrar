@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj": {}
+    "C:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj": {
+    "C:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj",
+        "projectUniqueName": "C:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj",
         "projectName": "UniversityRegistrar",
-        "projectPath": "c:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj",
+        "projectPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\UniversityRegistrar.csproj",
         "packagesPath": "C:\\Users\\kelly\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\obj\\",
+        "outputPath": "C:\\Users\\kelly\\OneDrive\\Desktop\\University.Registrar.Solutions\\UniversityRegistrar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kelly\\AppData\\Roaming\\NuGet\\NuGet.Config"
